@@ -3,6 +3,7 @@ You are producing a html lecture file for a group of second year degree students
 You must use JCSC branding at all times
 
 each # denotes a section in the talk which requires a section transition slide
+
 each - denotes a slide within the section
 
 # Introduction
