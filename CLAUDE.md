@@ -37,15 +37,4 @@ Follow the JCSC/GCSC design system for new JCSC/GCSC-branded material (documents
 
 Reports, dashboards and charts produced by this metrics platform are JCSC/GCSC material, so the rules above apply to them. That includes the TLP label on every report page and the house style for dates, times and numbers.
 
-## Local reference files
 
-Some reference files for this project are kept outside the repository, on the shared development server, and must never be published.
-
-- **Location:** the folder named by the `CSIRT_METRICS_LOCAL_DIR` environment variable. If it isn't set, use `/srv/csirt-metrics-local/`. If neither exists (for example in a cloud session), the files aren't available. Say so, and don't try to recreate them.
-- **Reading:** you may read and analyse these files when working on the local machine.
-- **Never publish:**
-  - Never copy, move or export these files, or extracts from them, into this repository.
-  - Never quote their contents or values in commit messages, pull request descriptions, GitHub comments, issues, artifacts or any other published or shared place.
-  - Never upload them anywhere else.
-- **Tests and examples:** anything committed (tests, fixtures, examples, documentation) must use invented values, never real ones from these files.
-- **If a task needs something from these files in the repository,** stop and ask first.
