@@ -6,8 +6,8 @@ each # denotes a section in the talk which requires a section transition slide
 each - denotes a slide within the section
 
 # Introduction
-# Defence in Depth - "Attackers only need to succeed once, defender need to succeed all the time"
-# Stages of attacks- Initial Access to network compromise - how we as defenders can catch them.
+Defence in Depth - "Attackers only need to succeed once, defender need to succeed all the time"
+Stages of attacks- Initial Access to network compromise - how we as defenders can catch them.
 
 
 # Windows Infrastructure Security
