@@ -35,6 +35,6 @@ Follow the JCSC/GCSC design system for new JCSC/GCSC-branded material (documents
 
 ## This repository
 
-Reports, dashboards and charts produced by this metrics platform are JCSC/GCSC material, so the rules above apply to them. That includes the TLP label on every report page and the house style for dates, times and numbers.
+This repo contains a html presentation in the "docs" folder which is branded JCSC/GCSC material, so the rules above apply to them. That includes the TLP label on every report page and the house style for dates, times and numbers.
 
 
